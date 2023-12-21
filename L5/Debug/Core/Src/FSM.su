@@ -1,0 +1,5 @@
+FSM.c:24:7:get_command	4	static
+FSM.c:27:6:clear_command	16	static
+FSM.c:33:6:HAL_UART_RxCpltCallback	16	static
+FSM.c:40:6:command_parser_fsm	8	static
+FSM.c:66:6:uart_communication_fsm	8	static
